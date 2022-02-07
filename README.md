@@ -5,18 +5,37 @@
 
 
 <!--
-COPY/PASTE THE TEXT FROM TEMPLATE.md BELOW AND EDIT IT FOR EACH WEEK. SEE ASSIGNMENTS FOR DETAILS
+INSTRUCTIONS
+
+COPY/PASTE THE TEXT BELOW AND EDIT IT FOR EACH WEEK. SEE ASSIGNMENTS FOR DETAILS
 https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/edit
 
 INSTRUCTIONS
 
-- Summarize the article(s) in 3-4 sentences. Also include...
+Summarize the article(s) in 3-4 sentences. Also include...
 - 1 quote from the reading(s)
 - 1 related comment on the reading(s)
-- 1 related follow-up question (what question does it bring up for you?) -->
+- 1 related follow-up question (what question does it bring up for you?)
 
 List each Platt experiment / Monk recipe outcome and show your work:
 - Text, photos, schematics, captions, etc.
 - Describe the most important thing you learned (to share in class)
 - Write a quiz question (which we will discuss in class)
+
+
+## Week 1
+
+### Author, Article
+
+- Quote:
+- Comment:
+- Question:
+
+### Experiment #1
+
+1. Text, photos, etc.
+1. Most important: 
+1. Quiz question:
+
+
 -->
