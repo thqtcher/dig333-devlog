@@ -21,7 +21,7 @@
 
 ### Taste the power
 
-1. -No notes taken I found this experiment straightforward
+1. -can't figure out photos
 2. Multimeter acts as the eyes and ears for electrical currents
 3. Quiz question: Give a step by step explanation as to how to test voltage
 
