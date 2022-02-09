@@ -1,5 +1,5 @@
-
 ## Week 1
+## Week 2
 
 ### Sanjay Sarma, The Internet of Things
 
@@ -8,7 +8,7 @@
 - Comment: While this article approaches the world of growing technology negatively, I believe if future devices are developed correctly they have a possibility of having beneficial lasting affects on us as humans.
 - Question: Where does one draw the line on devices that encroach on our day to day lives?
 
-## Week 2
+## Week 3
 
 ### Julian Oliver, The Critical Engineering Manifesto
 
