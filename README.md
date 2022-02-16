@@ -17,6 +17,15 @@
 - Comment: The way a critical engineer is supposed to think according to this manifesto sounds very similar to how one should approach testing the usability of a website.
 - Question: How does one incorporate their own individuality without disrupting the user's experience with their technology?
 
+## Week 4
+
+### Philip K. Dick, Pay for the Printer
+
+- Summary: This story takes place in the future where an alien species called Bitlongs has replaced the human race. The Bitlongs seem to have the ability to replicate or reproduce any item they are given. The main conflict of this story is that Bitlongs are starting to become old extinct and the humans are forced to relearn how to build. 
+- Quote: "Printing means merely copying. I can't explain to you what building is; you'll have to try it yourself to find out. Building and printing are two totally different things."
+- Comment: The story seemed to critique how reliant humans will be on technology in the future.
+- Question: In what ways does this fictional story from 1956 reflect our reality?
+
 ## Experiments
 
 ### Taste the power
