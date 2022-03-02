@@ -25,6 +25,16 @@
 - Quote: "Printing means merely copying. I can't explain to you what building is; you'll have to try it yourself to find out. Building and printing are two totally different things."
 - Comment: The story seemed to critique how reliant humans will be on technology in the future.
 - Question: In what ways does this fictional story from 1956 reflect our reality?
+## Week 5
+
+## Week 6
+
+### Mayo Nissen, Unseen Sensors: Constantly Sensing but Rarely Seen
+
+- Summary: This article has more of an optimistic approach to the world's up and coming techonological world. Instead of pointing out a lot of the negatives of technological advancements the article defends large tech companies by arguing that these companies make decisions that will benefit the general population. This article mainly talks about the large amount of sensors that go unnoticed by many specifically sensors used in public on streets or for traffic.
+- Quote: "They are invisible by default. Housed in anonymous plastic or metal boxes, these sensors rarely give away even a hint as to their purpose, intention, or ownership."
+- Comment: I liked that this article had a more positive approach to sensors and argued that companies make decisions to implement things to benefit the general population.
+- Question: Should private companies own the data that is created in this most public of contexts?
 
 ## Experiments
 
