@@ -27,6 +27,13 @@
 - Question: In what ways does this fictional story from 1956 reflect our reality?
 ## Week 5
 
+### Brian Merchant, Everything That’s Inside Your iPhone Motherboard
+
+- Summary: Everything that's inside your iphone is an article that highlights the raw materials that compose the iphone 6 and how those materials are collected. The main concern or issue brought up in the article is the degree of diffuclty required to obtain the materials needed to build an iphone. The article also highlights the high number of children that are emplyed in the many mines that collect these resources. The article talks about how in 2008 60 children were killed in one of the mines used to gather the iphone resources. Brian also discusses the impact this mining has had on earth, and the millions of tons that have been removed from earth.  
+- Quote: "And a lot of the precious stuff is difficult to get, and mined in places with little to no regulation and dangerous, even deadly conditions."
+- Comment: With how heavily dependent people are on apple's iphone I doubt many people will stop purchasing/using them even if they are aware of the harsh conditions required to build one.
+- Question: How many people do you think have collectively died in order to make all apple iphones?
+
 ## Week 6
 
 ### Mayo Nissen, Unseen Sensors: Constantly Sensing but Rarely Seen
@@ -35,6 +42,12 @@
 - Quote: "They are invisible by default. Housed in anonymous plastic or metal boxes, these sensors rarely give away even a hint as to their purpose, intention, or ownership."
 - Comment: I liked that this article had a more positive approach to sensors and argued that companies make decisions to implement things to benefit the general population.
 - Question: Should private companies own the data that is created in this most public of contexts?
+
+## Week 7
+
+### 
+
+NO READINGS
 
 ## Experiments
 
