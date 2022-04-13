@@ -8,6 +8,9 @@ week 2 of milestone 2: This following week I struggled to get my webcam to work 
 
 Image mapping using rectangles:
 
-
 https://user-images.githubusercontent.com/61435118/163232798-168b6db2-fb46-4bd8-a69c-b07c492007e3.mp4
+
+Object detecting using img filtering and thresholding:
+
+https://user-images.githubusercontent.com/61435118/163234590-e92f9f2c-f5b3-49cb-bf2d-0c6654616ae5.mp4
 
