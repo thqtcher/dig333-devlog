@@ -1,0 +1,3 @@
+This past week I spent the majority of my time teaching myself react JS and react Native. Using expo and react Native I've sort've figured out how I will implement a mobile app that can act as a feedback system for my raspberry pi. So far I've made a bsic login screen as a way to get a grasp of react Native's basic features. As far as design goes I haven't been able to get many drawings done outlining how I want my UI to look, but I do have a general idea of how I want the layout. This next week I plan to continue working on the app and design of my UI. Below I have attached what I have been able to implement so far with React Native.
+
+![loginscreen](https://user-images.githubusercontent.com/61435118/164275652-1bc2e206-a2fe-4742-82a5-e45ee3e0e25c.png)
