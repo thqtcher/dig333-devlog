@@ -49,6 +49,12 @@
 
 NO READINGS. Finalized project idea of parking sensor. Looked into flight sensor capabilities and object detection. I also looked into approach of using webcam that would require understanding openCV.
 
+## Week 8
+
+### 
+
+NO READINGS. Shifted focus to using a webcam with my raspberry pi. I setup webcam with raspberry pi that displayed live footage in separate window. This required setting up, installing, and learning the basics of openCV. Based on further research for how I should move forward with my project I found a machine learning python library called tensorFlow that can be used for object detection. 
+
 ## Experiments
 
 ### Taste the power
